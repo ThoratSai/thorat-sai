@@ -1,3 +1,3 @@
 # thorat-sai
-linear regression
+linear regression.
 author- saiprasad thorat
